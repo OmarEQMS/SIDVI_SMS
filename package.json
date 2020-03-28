@@ -1,0 +1,11 @@
+{
+  "name": "sidvi_sms",
+  "version": "1.0.0",
+  "description": "Sistema de Informacion y Diagnostico de Virus Modulo SMS",
+  "main": "server.js",
+  "author": "Fernanda Orduña, Diego Montoya y Omar Quintero",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
